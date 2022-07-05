@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CsvReaderDecompressorForLiran/1.0.0": {
+        "runtime": {
+          "CsvReaderDecompressorForLiran.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsvReaderDecompressorForLiran/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
